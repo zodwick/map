@@ -10,8 +10,8 @@
       "properties": {
         "PARK_ID": 960,
         "FACILITYID": 28014,
-        "NAME": "Bearbrook Skateboard Park",
-        "NAME_FR": "Planchodrome Bearbrook",
+        "NAME": "HOTEL SEAGULL",
+        "NAME_FR": "Planchod",
         "ADDRESS": "8720 Russell Road",
         "ADDRESS_FR": "8720, chemin Russell",
         "FACILITY_T": "flat",
@@ -32,7 +32,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.3372987731628, 45.383321536272049]
+        "coordinates": [9.9312,76.2673]
       }
     },
     {
@@ -62,7 +62,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.546518086577947, 45.467134581917357]
+        "coordinates": [9.9487,76.3464]
       }
     },
     {
@@ -92,7 +92,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.898610599532319, 45.295014379864874]
+        "coordinates": [9.9542,76.3024]
       }
     },
     {
@@ -122,7 +122,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.468561642270757, 45.23032561834377]
+        "coordinates": [10.0279, 76.3078]
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.926651366520872, 45.260659774950561]
+        "coordinates": [10.0159,76.3419]
       }
     },
     {
@@ -182,7 +182,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.760933332842754, 45.345566668964558]
+        "coordinates": [10.0317,76.3087]
       }
     },
     {
@@ -212,7 +212,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.625996131485707, 45.375401587496128]
+        "coordinates": [9.9003,76.3844]
       }
     },
     {
@@ -242,7 +242,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.857009812435976, 45.290758029776626]
+        "coordinates": [9.9658,76.2421]
       }
     },
     {

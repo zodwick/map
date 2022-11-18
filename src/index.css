@@ -17,6 +17,8 @@ code {
   background: none;
   border: none;
   cursor: pointer;
+  position: -webkit-sticky;
+  
 }
 
 .marker-btn img {
